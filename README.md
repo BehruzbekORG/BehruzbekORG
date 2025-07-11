@@ -2,7 +2,7 @@
 <h1 align="center">Salom bu men Behruzbek</h1>
 <h3 align="center">Frontend Dasturchiman</h3>
 
-<h3 align="left">Connect with me: xasanovbehruzbee@gamil.com </h3>
+<h3 align="left">Menga bog'lanish usli: xasanovbehruzbee@gamil.com </h3>
 <p align="left">
 </p>
 
