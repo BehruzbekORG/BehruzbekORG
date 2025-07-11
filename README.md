@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Behruzbel</h1>
+<h1 align="center">Hi 👋, I'm Behruzbek</h1>
 <h3 align="center">dasturchi</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: xasanovbehruzbee@gamil.com </h3>
 <p align="left">
 </p>
 
